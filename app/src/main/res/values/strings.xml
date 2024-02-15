@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SatSet</string>
+    <string name="learn_now">Mulai</string>
+    <string name="title_menu_1">bagi bagi bakso gratis</string>
+    <string name="desc_menu_1">ayo kumpul bagi bagi baso gratis telah hadir jangan sampai ketinggalan</string>
+    <string name="title_menu_2">antrian untuk bakso gratis</string>
+    <string name="desc_menu_2">tinggal tunggu antrian mu dengan tertib dan dapatkan baksmo mu</string>
+    <string name="title_menu_3">nikmati baksomu</string>
+    <string name="desc_menu_3">nikmati bakso gratis bersama orang-orang terdekatmu</string>
+    <string name="title_menu_4">Dapatkan Bakso Gratis</string>
+    <string name="desc_menu_4">Segera daftarkan dirimu dan dapatkan bakso gratismu sekarang juga!</string>
+    <string name="title_login_page">Siap dapatkan Bakso gratis?</string>
+    <string name="message_login_page">Silahkan masukan informasi akun</string>
+    <string name="email">Masukan Email</string>
+    <string name="password">Masukan Password</string>
+    <string name="login">Masuk</string>
+    <string name="already_have_account">"Belum punya akun? "</string>
+    <string name="clickhere">Daftar disini</string>
+    <string name="error_empty_password">Password tidak boleh kosong!</string>
+    <string name="error_password_more_8">Password harus lebih dari 8 karakter!</string>
+    <string name="name">Masukan Nama</string>
+    <string name="signup">Daftar</string>
+    <string name="emaildesc">Email</string>
+    <string name="passworddesc">Password</string>
+    <string name="namedesc">Nama</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="input_code">Masukan Kode</string>
+    <string name="title_history">History</string>
+    <string name="title_profile">Profile</string>
+</resources>
